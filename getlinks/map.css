@@ -1,0 +1,24 @@
+/* 地図キャンパス */
+#map-canvas {
+	width: 800px ;
+	height: 600px ;
+}
+
+/* ボタン */
+#method, #reset {
+	border: 1px solid #666 ;
+	box-sizing: border-box ;
+	background-color: #f2f2f2 ;
+	width: 800px ;
+	text-align: center ;
+	height: 40px ;
+	line-height: 40px ;
+	font-size: 16px ;
+	font-weight: 700 ;
+}
+
+/* テキストエリア */
+#return {
+	box-sizing: border-box ;
+	width: 800px ;
+}
